@@ -6,7 +6,10 @@ import 'primeicons/primeicons.css';
 import ContentCards from './contentCards';
 
 function App() {
-
+/**voce consegue estilizar os componetes pegando sua classe no inspecionar por exemplo
+ * tenho o <Card/> 
+ * no inpecionar posso pegar a classe dele e estilizar no css
+ */
   return (
     <>
       <MenuTopBar/>
