@@ -1,0 +1,33 @@
+.newCall{
+    background-color: "#f00";
+    color: "#fff";
+    border-radius: 50%;
+}
+
+.div-cards{
+    display: flex;
+    justify-content: center; 
+}
+
+.div-card{
+    display: flex;
+    justify-content: center;
+    padding: 12px; 
+    background-color:rgb(173, 170, 170);
+    color: white;
+    height: 80vh;
+    width: 80vh;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    margin-right: 3vh;
+    margin-left: 3vh;
+    border-radius: 15px;
+}
+
+
+
+.class-navbar{
+    padding: 15px;
+    background-color:rgb(105, 105, 105);
+    border-radius: 10px;
+}
