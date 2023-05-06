@@ -1,9 +1,9 @@
 import './App.css'
-import MenuTopBar from './TopBar/TopBar'
+import MenuTopBar from './TopBar'
 import 'primereact/resources/themes/saga-blue/theme.css';
 import 'primereact/resources/primereact.min.css';
 import 'primeicons/primeicons.css';
-import ContentCards from './contentCards';
+import ContentCards from './ContentCards';
 
 function App() {
 /**voce consegue estilizar os componetes pegando sua classe no inspecionar por exemplo
